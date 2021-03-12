@@ -1,8 +1,8 @@
 ## Redes sociais
 
-[GitHub](https://github.com/steniols)
-[Linkedin](https://www.linkedin.com/in/stenio-leopoldo-de-souza-2b635199/)
-[Instagram](https://www.instagram.com/steniols/)
+- [GitHub](https://github.com/steniols)
+- [Linkedin](https://www.linkedin.com/in/stenio-leopoldo-de-souza-2b635199/)
+- [Instagram](https://www.instagram.com/steniols/)
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
